@@ -3,4 +3,3 @@ C:\T32\iTSP\OS\Linux\general\debug_auto.cmm
 symbol.sourcepath.srd "C:\T32\iTSP\source\UDOO\Kernel_Unico-master"
 
 TEST 1
-
